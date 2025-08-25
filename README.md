@@ -22,7 +22,6 @@ It uses [FFmpeg](https://ffmpeg.org/) to quickly trim media files **without re-e
   ```bash
   sudo apt-get install ffmpeg
 
-
 ### Usage
 
 1. Save the script as clip_generator.py
@@ -31,9 +30,8 @@ It uses [FFmpeg](https://ffmpeg.org/) to quickly trim media files **without re-e
 `python clip_generator.py`
 3. Enter:
 
-`The path to the input directory containing your audio/video files
-The path to the output directory where clips will be saved`
-
+`The path to the input directory containing your audio/video files`
+`The path to the output directory where clips will be saved`
 
 
 
