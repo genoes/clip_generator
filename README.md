@@ -31,6 +31,7 @@ It uses [FFmpeg](https://ffmpeg.org/) to quickly trim media files **without re-e
 3. Enter:
 
 `The path to the input directory containing your audio/video files`
+
 `The path to the output directory where clips will be saved`
 
 
